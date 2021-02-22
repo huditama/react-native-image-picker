@@ -5,7 +5,7 @@ import android.content.DialogInterface;
 import android.graphics.drawable.ColorDrawable;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.core.app.AlertDialog;
+import androidx.appcompat.app.AlertDialog;
 import android.widget.ArrayAdapter;
 
 import com.facebook.react.bridge.ReadableMap;

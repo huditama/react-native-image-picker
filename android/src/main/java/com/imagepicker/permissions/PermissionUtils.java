@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.content.DialogInterface;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.core.app.AlertDialog;
+import androidx.appcompat.app.AlertDialog;
 
 import com.facebook.react.bridge.ReadableMap;
 import com.facebook.react.bridge.ReadableNativeMap;
